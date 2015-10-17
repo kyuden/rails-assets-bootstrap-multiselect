@@ -1,7 +1,6 @@
 require "rails-assets-bootstrap-multiselect/version"
 
 require "rails-assets-jquery"
-require "rails-assets-bootstrap"
 
 module RailsAssetsBootstrapMultiselect
 
